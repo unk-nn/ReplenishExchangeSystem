@@ -1,3 +1,6 @@
+// После успешного создания "update_post_token.json" можно удалить "get_post_token.json" 
+// и переименовать "update_post_token.json" в "get_post_token.json".
+
 {
   "token_type": "Bearer",
   "expires_in": 31536000,
